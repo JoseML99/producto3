@@ -1,4 +1,4 @@
-﻿namespace productoBack.Models
+﻿namespace productoAPI.Models
 {
     using System.ComponentModel.DataAnnotations;
 
